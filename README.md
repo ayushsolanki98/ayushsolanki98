@@ -1,6 +1,5 @@
 Hi 👋 My name is Ayush Solanki
-==============================
-fbrtgdt rft
+===========================
 Fronted Web Developer | E-commerce Management
 ---------------------------------------------
 
