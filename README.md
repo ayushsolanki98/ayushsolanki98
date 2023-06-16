@@ -2,7 +2,7 @@ Hi 👋 My name is Ayush Solanki
 ==============================
 
 Fronted Web Developer | E-commerce Management
----------------------------------------------tyhtyffjb67t 6gy
+---------------------------------------------
 
 As a frontend developer, I have spent the past two years honing my skills and expertise in creating exceptional user interfaces and seamless user experiences. Throughout my journey, I have worked with an e-commerce management company, where I have played a pivotal role in enhancing the company's online presence and driving customer engagement. In addition to my practical experience, I hold a Bachelor's degree in Computer Applications (BCA), which has provided me with a solid foundation in computer science principles and programming concepts. I constantly strive to stay up to date with the latest frontend development trends and best practices by actively participating in online communities, attending webinars, and exploring new technologies.
 
